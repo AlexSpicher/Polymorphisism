@@ -7,3 +7,9 @@ Polymorphisism can be used in different programming languagaes such as:<br>
   * Java
   * C++
   * Python <br><br>
+#### 5 Types of Polymorphisism
+1) Ad-hoc polymorphism in computer science
+2) Parametric polymorphism
+3) Subtyping polymorphism in object-oriented programming
+4) Row polymorphism
+5) Polytypism
